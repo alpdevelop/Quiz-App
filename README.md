@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmMjUxZTRjMjE0ZDA2NDdhMDQzYmFkNzM3MjUzYjFkYzk0MTYxZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M6K5B0NOliobDViRgj/giphy.gif)
 
-## Soruları ve cevaplarını eklemek için lütfen `question.js` dosyasına gidin ve aşağıdaki kod bloğunu isteyiniz doğrultusunda düzeltin. 
+## Soruları ve cevaplarını eklemek için lütfen `question.js` dosyasına gidin ve aşağıdaki kod bloğunu isteyiniz doğrultusunda düzenleyin. 
 
 ```js
 let questions = [
